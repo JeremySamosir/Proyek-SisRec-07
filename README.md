@@ -9,9 +9,9 @@ Proyek ini mengevaluasi kemampuan berbagai model Generative AI (LLM) seperti Cha
 4. Menentukan model mana yang memberikan respons paling lengkap, alami, relevan, dan menarik dibandingkan model lainnya.
 
 ## Model Generative AI yang Digunakan
-- ChatGPT (OpenAI)
+- ChatGPT 
 - Gemini
-- Perplexity AI
+- Perplexity 
 
 ## Daftar Prompt yang Digunakan
 - [Kumpulan prompt dan hasil respons dari setiap model](https://docs.google.com/spreadsheets/d/1MQKGbFiP9QrghUGss5bcVrH1akrsPGUxpsZlcV7zwRk/edit?usp=sharing).
