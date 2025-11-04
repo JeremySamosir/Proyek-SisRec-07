@@ -7,3 +7,11 @@ Proyek ini mengevaluasi kemampuan berbagai model Generative AI (LLM) seperti Cha
 2. Mengukur kemampuan model dalam memberikan jawaban yang sesuai dengan konteks sosial, adat, dan nilai-nilai Batak.
 3. Memberikan rekomendasi model LLM yang paling efektif untuk dikembangkan lebih lanjut dalam konteks pelestarian atau penerapan bahasa Batak di sistem AI
 4. Menentukan model mana yang memberikan respons paling lengkap, alami, relevan, dan menarik dibandingkan model lainnya.
+
+## Model Generative AI yang Digunakan
+- ChatGPT (OpenAI)
+- Gemini
+- Perplexity AI
+
+## Daftar Prompt yang Digunakan
+- [Kumpulan prompt dan hasil respons dari setiap model](https://docs.google.com/spreadsheets/d/1MQKGbFiP9QrghUGss5bcVrH1akrsPGUxpsZlcV7zwRk/edit?usp=sharing).
