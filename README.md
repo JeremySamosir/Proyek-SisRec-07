@@ -15,3 +15,6 @@ Proyek ini mengevaluasi kemampuan berbagai model Generative AI seperti ChatGPT, 
 
 ## Daftar Prompt yang Digunakan
 - [Kumpulan prompt dan hasil respons dari setiap Gen AI](https://docs.google.com/spreadsheets/d/1MQKGbFiP9QrghUGss5bcVrH1akrsPGUxpsZlcV7zwRk/edit?usp=sharing).
+
+## Link Google Colab
+- [Google Colab](https://colab.research.google.com/drive/15U4IDzhRLsVCZzPlWb_OFJh4iVUn15_s?usp=sharing).
